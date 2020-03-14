@@ -22,6 +22,8 @@ public class OddsAndEvens {
         else
             System.out.println("Se eligio Impares, la computadora sera Pares");
         System.out.println("************************************************");
+        System.out.println("************************************************");//todo:revert
+        System.out.println("************************************************");
 
         jugar(ladoDelJugador,in);
 

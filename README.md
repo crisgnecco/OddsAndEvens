@@ -1,4 +1,3 @@
 # OddsAndEvens
 Juego de pares e impares.
-
-**todo: agregar descipcion y reglas del juego.
+Ejemplo del tradicional juego: https://www.youtube.com/watch?v=4ZOLs03vILs
